@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104990257994",
+    "firebase_url": "https://kissasian-e8e94.firebaseio.com",
+    "project_id": "kissasian-e8e94",
+    "storage_bucket": "kissasian-e8e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104990257994:android:5c4cb4e90b3dccc9ae07b3",
+        "android_client_info": {
+          "package_name": "best.kissasian.drama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104990257994-rrp2jt71ld31svidjpn7621407i02bn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVwppuabdp7-bdlGtizoq6sb5Ckm5Zbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104990257994-rrp2jt71ld31svidjpn7621407i02bn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
