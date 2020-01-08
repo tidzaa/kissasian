@@ -8,7 +8,7 @@
     android:layout_gravity="center"
     android:gravity="center"
     android:background="@color/white"
-    tools:context="best.kissasian.drama.SplashscreenActivity">
+    tools:context="com.kissasian.drama.SplashscreenActivity">
 
     <ImageView
         android:src="@drawable/splash"

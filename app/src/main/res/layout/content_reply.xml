@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="best.kissasian.drama.ReplyActivity"
+    tools:context="com.kissasian.drama.ReplyActivity"
     tools:showIn="@layout/activity_reply">
 
     <androidx.recyclerview.widget.RecyclerView

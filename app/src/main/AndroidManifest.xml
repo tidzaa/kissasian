@@ -20,7 +20,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
-        android:name="best.kissasian.drama.utils.MyAppClass"
+        android:name="com.kissasian.drama.utils.MyAppClass"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -28,57 +28,57 @@
         android:usesCleartextTraffic="true"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="best.kissasian.drama.UpdateActivity" />
+        <activity android:name="com.kissasian.drama.UpdateActivity" />
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-8804184340526788~7833821786" />
 
         <activity
-            android:name="best.kissasian.drama.TermsActivity"
+            android:name="com.kissasian.drama.TermsActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="best.kissasian.drama.ReplyActivity"
+            android:name="com.kissasian.drama.ReplyActivity"
             android:label="@string/title_activity_reply"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="best.kissasian.drama.ProfileActivity"
+            android:name="com.kissasian.drama.ProfileActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="best.kissasian.drama.PassResetActivity"
+            android:name="com.kissasian.drama.PassResetActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="best.kissasian.drama.SearchActivity"
+            android:name="com.kissasian.drama.SearchActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="best.kissasian.drama.SignUpActivity"
+            android:name="com.kissasian.drama.SignUpActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="best.kissasian.drama.LoginActivity"
+            android:name="com.kissasian.drama.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="best.kissasian.drama.DetailsActivity"
+            android:name="com.kissasian.drama.DetailsActivity"
             android:configChanges="screenLayout|screenSize|orientation"
             android:label="@string/title_activity_details"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" /> <!-- android:configChanges="screenLayout|screenSize|orientation" -->
         <activity
-            android:name="best.kissasian.drama.MainActivity"
+            android:name="com.kissasian.drama.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="best.kissasian.drama.SettingsActivity"
+            android:name="com.kissasian.drama.SettingsActivity"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="best.kissasian.drama.SplashscreenActivity"
+            android:name="com.kissasian.drama.SplashscreenActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="portrait"
             android:theme="@style/FullscreenTheme">
@@ -91,16 +91,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="best.kissasian.drama.ItemMovieActivity"
+            android:name="com.kissasian.drama.ItemMovieActivity"
             android:label="@string/title_activity_item_show"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="best.kissasian.drama.ItemTVActivity"
+            android:name="com.kissasian.drama.ItemTVActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="best.kissasian.drama.ItemSeriesActivity"
+            android:name="com.kissasian.drama.ItemSeriesActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
     </application>
